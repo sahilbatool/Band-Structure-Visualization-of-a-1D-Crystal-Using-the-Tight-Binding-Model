@@ -1,0 +1,1 @@
+# Band-Structure-Visualization-of-a-1D-Crystal-Using-the-Tight-Binding-Model
